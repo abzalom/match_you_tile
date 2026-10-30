@@ -1,0 +1,122 @@
+[
+  {
+    "nama": "Apel",
+    "kategori": "buah",
+    "berkas": "buah/apel.svg"
+  },
+  {
+    "nama": "Wortel",
+    "kategori": "sayuran",
+    "berkas": "sayuran/wortel.svg"
+  },
+  {
+    "nama": "Cabai",
+    "kategori": "bumbu",
+    "berkas": "bumbu/cabai.svg"
+  },
+  {
+    "nama": "Nasi Goreng",
+    "kategori": "makanan",
+    "berkas": "makanan/nasi_goreng.svg"
+  },
+  {
+    "nama": "Pisang",
+    "kategori": "buah",
+    "berkas": "buah/pisang.svg"
+  },
+  {
+    "nama": "Brokoli",
+    "kategori": "sayuran",
+    "berkas": "sayuran/brokoli.svg"
+  },
+  {
+    "nama": "Bawang Putih",
+    "kategori": "bumbu",
+    "berkas": "bumbu/bawang_putih.svg"
+  },
+  {
+    "nama": "Sate",
+    "kategori": "makanan",
+    "berkas": "makanan/sate.svg"
+  },
+  {
+    "nama": "Jeruk",
+    "kategori": "buah",
+    "berkas": "buah/jeruk.svg"
+  },
+  {
+    "nama": "Terong",
+    "kategori": "sayuran",
+    "berkas": "sayuran/terong.svg"
+  },
+  {
+    "nama": "Bawang Merah",
+    "kategori": "bumbu",
+    "berkas": "bumbu/bawang_merah.svg"
+  },
+  {
+    "nama": "Telur Goreng",
+    "kategori": "makanan",
+    "berkas": "makanan/telur_goreng.svg"
+  },
+  {
+    "nama": "Anggur",
+    "kategori": "buah",
+    "berkas": "buah/anggur.svg"
+  },
+  {
+    "nama": "Tomat",
+    "kategori": "sayuran",
+    "berkas": "sayuran/tomat.svg"
+  },
+  {
+    "nama": "Jahe",
+    "kategori": "bumbu",
+    "berkas": "bumbu/jahe.svg"
+  },
+  {
+    "nama": "Donat",
+    "kategori": "makanan",
+    "berkas": "makanan/donat.svg"
+  },
+  {
+    "nama": "Semangka",
+    "kategori": "buah",
+    "berkas": "buah/semangka.svg"
+  },
+  {
+    "nama": "Jagung",
+    "kategori": "sayuran",
+    "berkas": "sayuran/jagung.svg"
+  },
+  {
+    "nama": "Kunyit",
+    "kategori": "bumbu",
+    "berkas": "bumbu/kunyit.svg"
+  },
+  {
+    "nama": "Roti",
+    "kategori": "makanan",
+    "berkas": "makanan/roti.svg"
+  },
+  {
+    "nama": "Nanas",
+    "kategori": "buah",
+    "berkas": "buah/nanas.svg"
+  },
+  {
+    "nama": "Kubis",
+    "kategori": "sayuran",
+    "berkas": "sayuran/kubis.svg"
+  },
+  {
+    "nama": "Kayu Manis",
+    "kategori": "bumbu",
+    "berkas": "bumbu/kayu_manis.svg"
+  },
+  {
+    "nama": "Mi",
+    "kategori": "makanan",
+    "berkas": "makanan/mi.svg"
+  }
+]

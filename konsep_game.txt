@@ -1,0 +1,54 @@
+Ide utama:
+idenya adalah saya mau membuat sebuah game seperti game math tile yang mana:
+1. Layar menampilkan tumpukan kartu dan kartunya bisa saling menimpa.
+2. Player akan memilih kartu untuk dicocokan sebanyak 3 kartu.
+3. Setiap kartu yang dipilih di tempatkan pada sebuah baris berisi 7 slot dan setiap slot hanya bisa memuat 1 kartu. tempatkan baris slot tersebut di bagian atas layar.
+4. Jika player memilih kartu pertama lalu yang kedua sama maka tempatkan berdekatan untuk kartu yang sama di urutkan dari kiri ke kanan.
+5. Jika player memilih kartu pertama lalu yang kedua tidak sama tetap di tempatkan dari kiri ke kanan, namun ketika kartu ke tiga sama dengan kartu pertamaa maka urutkan menjadi sejajar di muali dari sebelah kartu pertama. begitu pula untuk kartu kedua di tempatkan sejajar di sebelah kartu kedua dan seterusnya. posisinya dari kiri ke kanan.
+6. Jika player berhasil memilih 3 kartu yang sama pada kartu tersebut dimusnakan dari slot.
+7. Jika player tidak berhasil memilih 3 kartu yang sama dan semua slot sudah terisi penuh, maka game berakhir dengan player kalah.
+8. Jika player berhasil mencocokan semua kartu pada game, maka game berakhir dengan player menang.
+9. Jika slot tersisa 3 maka buat agar baris slot berkedip tanda memberikan peringatan setiap kali player menambahkan 1 kartu.
+10. tambahkan tombol untuk alat bantu di bagian bawah layar yang terdiri dari:
+    1. alat bantu untuk mengembalikan satu kartu dari slot ke dalam tumpukan kartu.
+    2. alat bantu untuk dilakukan pencocokan otomatis dengan komputer mencari kartu yang cocok di dalam tumpukan kartu dari menempatkan di dalam slot secara secara sejajar untuk dimusnakan. dilakukan dengan mencari kartu di dalam tumpukan kartu dengan jumlah kartu yang palinng banyak di dalam slot dimulai dari sebelah kiri. jika jumlah kartu semuanya sama maka di cocokan otomatis dari sebelah kiri.
+    3. alat bantu untuk melakukan refresh tumpukan kartu secara acak, tetapi berikan peluar sebesar 65% untuk kemungkinan kartu yang sama dengan yang sudah ada di dalam slot pada tumpukan kartu muncul di bagian atas.
+11. Tumpukan kartu jangan dibuat sejajar tetapi benar-benar acak.
+12. Tumpukan kartu dibagian bawah dapat terlihat sedikit agar player tahu kartu berikutnya apa.
+13. Buat ukuran layar seperti tampilan layar HP
+
+Scoring:
+1. Tempatkan text untuk scroring di bagian paling atas sebelum slot.
+2. setiap kartu yang musnah diberikan nilai 100.
+
+Animasi:
+1. Tambahkan animasih yang smooth ketika masuk dari menu utama ke game.
+2. Tambahkan tombol Kembali ke menu utama di sudut kiri atas tambahakn juga animasinya.
+3. Tambahkan animasi ketika kartu berpindah dari tumpukan ke slot.
+4. Tambahkan juga animasi untuk bantuan acak kartu, pencocokan otomatis dan kembalikan kartu sama seperti animasi pada langkah ke 3.
+5. Setiap kartu diklik player dapat memilih dengan cepat tanpa menunggu animasi selesai bekerja.
+
+Grafis:
+1. Ukuran Kartu diperbesar sedikit. tumpukan jangan terlalu kaku tetapi benar-benar acak dengan bentuk yang aneh-aneh seperti tanda plus, tanda x, tumpukan menggunung di tengah dan lainnya.
+2. buatkan kartu agar sedikit ada border 3d atau 2.5D di bagian bawah kartu
+3. Player tidak dapat kembali ke level sebelumnya.
+
+Level:
+1. dimulai dari level 1 dengan yang paling mudah tumpukan kartu yaitu 9 tumpukan kartu atau 3x3. level yang paking sulit yaitu dengan 10x3, dengan 3 jenis kartu yang sama.
+2. Player harus menyelesaikan level sebelumnya untuk melanjutkan ke level berikutnya.
+
+Starting:
+1. Game dimulai dengan tampilan depan yang menampilkan judul game di bagian atas.
+2. Tombol star dengan nama level di dalam tombol dan posisi tombol dibagian bawah.
+
+Jenis Game:
+Game berjenis 2D
+
+Referensi:
+Game Tap Tile, mahjong dan jenis game pencocokan kartu lainnya
+
+Assets:
+gunakan aset pada folder assets. jika ada aset yang dirasa tidak ada pada folder assets, sarankan langsung ke saya untuk di buatkan. jika assets yang diperlukan bisa kamu buat dalam bentuk file .svg maka bisa kamu buat langsung di dalam folder assets dengan membuat folder khusus untuk file berformat .svg. usahakan untuk menata lingkungan kerja dengan rapi dan terstruktur
+
+NOTE:
+konsep ini dapat berubah jika diperlukan
